@@ -31,7 +31,11 @@ public class Lesson8_1 {
         L1.Info(14.5);
 
         lenghtCircle(16.5);
-      
+        lenghtCircle(17.5);
+        lenghtCircle(18.5);
+
+
+
 
     }
 
